@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~36.0.0",
+    "expo": "~48.0.0",
     "native-base": "^2.13.8",
     "react": "~16.9.0",
     "react-art": "^16.12.0",
